@@ -1,0 +1,140 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+  
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', sans-serif;
+}
+  
+  
+* {
+  color: $font-color;
+}
+  
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: $background-color;
+}
+  
+.main {
+  flex: 1 0 auto;
+  max-width: 1200px;
+  margin: auto;
+  min-height: 75vh;
+}
+  
+.header,
+.footer {
+  flex: 0 0 auto;
+  background-color: $accent-color;
+}
+
+.footer {
+  padding: 1em;
+}
+/* Header */
+  
+.header,
+.site-header {
+  display: flex;
+  justify-content: space-between;
+}
+  
+.hidden {
+  display: none !important;
+}
+/* Title */
+  
+.title,
+.logo {
+  padding: 3em 3em 3em 0;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo a {
+  width: 50%;
+}
+
+.logo img {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .title,
+  .logo {
+    padding: 1em 1em 1em 0;
+  }
+  
+  .title {
+    min-width: 50%;
+  }
+  
+  .logo {
+    max-width: 15%;
+  }
+  
+  .logo img {
+    width: 100%;
+  }
+}
+  
+.main {
+  padding: 0.75em;
+}
+  
+.title p {
+  font-style: italic;
+}
+  
+.footer {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #222;
+}
+  
+  
+  
+.footer .social {
+  font-size: 2rem;
+}
+
+.social a {
+  margin: 0.25em;
+}
+
+.rounded {
+  border-radius: 50%;
+}
+  
+.center {
+  margin: 0 auto;
+  display: block;
+}
+  
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+  
+.gallery figure {
+  width: 30%;
+  margin: 0 0.25rem;
+}
+  
+.gallery img {
+  width: 100%;
+  aspect-ratio: 9/16;
+  object-fit: cover;
+}

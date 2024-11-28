@@ -6436,13 +6436,13 @@ h6 {
 }
 
 * {
-  color: #000000;
+  color: #d6d6d6;
 }
 
 body {
   display: flex;
   flex-direction: column;
-  background-color: #c0c0b9;
+  background-color: #342e34;
 }
 
 .main {
@@ -6455,7 +6455,7 @@ body {
 .header,
 .footer {
   flex: 0 0 auto;
-  background-color: #A8A89E;
+  background-color: #403640;
 }
 
 .footer {
@@ -6613,7 +6613,7 @@ pre code {
 }
 
 .box {
-  border: 2px solid #A8A89E;
+  border: 2px solid #393239;
   padding: 1rem;
   text-align: center;
 }
