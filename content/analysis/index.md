@@ -12,6 +12,6 @@ Template: analysis
      <a href="%base_url%?analysis/02_load">load</a>
     </div>
     <div>
-     <a href="%base_url%?analysis/01_colors">Designprinciper</a>
+     <a href="%base_url%?analysis/03_design_principles">Designprinciper</a>
     </div>
 </div>
