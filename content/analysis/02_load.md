@@ -8,7 +8,7 @@ I denna rapport skall tre webbplatser analyseras om deras laddningshastighet och
 
 Urval
 ---
-De sidor som kommer att analyseras är följande <a href="https://www.youtube.com">youtube.com</a>, <a href="https://www.netonnet.se">netonnet.se</a> och <a href="https://www.github.com">github.com</a>
+De sidor som kommer att analyseras är följande <a href="https://www.youtube.com" aria-label="Youtube site">youtube.com</a>, <a href="https://www.netonnet.se" aria-label="netonnet site">netonnet.se</a> och <a href="https://www.github.com" aria-label="github site">github.com</a>
 Detta då olika sidor med olika ändamål är intressant att analysera.
 
 Metod
@@ -20,12 +20,12 @@ Resultat
 ---
 Här kommer resultat om de olika webbplatserna.
 <div class="embed-container">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnbEmDcuU3AfCsqWoQW4f6z3ZLaz7YV9ScALTk9CZ6QTUk047WJRrujcnTEC9FSoIrI9xwdVanLJFc/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe title="Raw Data in Excel"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnbEmDcuU3AfCsqWoQW4f6z3ZLaz7YV9ScALTk9CZ6QTUk047WJRrujcnTEC9FSoIrI9xwdVanLJFc/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
 
 ### youtube.com
 
-<img src="%base_url%/image/youtube.png" class="analysis-image">
+<img src="%base_url%/image/youtube.png" class="analysis-image" alt="youtube front page">
 
 Betyg: 38 (dator), 46 (mobil).
 FCP: 1s (dator), 5.9s (mobil).
@@ -37,7 +37,7 @@ Storlek: 21.8 MB.
 
 ### netonnet.se
 
-<img src="%base_url%/assets/img/netonnet.png" class="analysis-image">
+<img src="%base_url%/assets/img/netonnet.png" class="analysis-image" alt="netonnet front page">
 
 Betyg: 72 (dator), 57 (mobil).
 FCP: 0.8s (dator), 4.2s (mobil).
@@ -48,7 +48,7 @@ Storlek: 6 MB.
 Överförda Resurser: 3.3 MB.
 ### github.com
 
-<img src="%base_url%/assets/img/github.png" class="analysis-image">
+<img src="%base_url%/assets/img/github.png" class="analysis-image" alt="github front page">
 
 Betyg: 62 (dator), 56 (mobil).
 FCP: 0.9s (dator), 3.1s (mobil).

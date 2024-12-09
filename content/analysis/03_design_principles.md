@@ -9,11 +9,11 @@ I denna rapport skall tre webbplatser analyseras om deras design
 Urval
 ---
 Urvalet gjordes genom att söka på portfolio och gick in på reddittråd där folk laddade upp sina portfölj sidor och 
-De sidor som kommer att analyseras är följande <a href="https://web.itu.edu.tr/ibrahimli21/">https://web.itu.edu.tr/ibrahimli21/</a>, <a href="https://robbowen.digital">https://robbowen.digital</a> och <a href="https://brittanychiang.com">https://brittanychiang.com</a>
+De sidor som kommer att analyseras är följande <a href="https://web.itu.edu.tr/ibrahimli21/" aria-label="Javad Ibrahimli portfolio">https://web.itu.edu.tr/ibrahimli21/</a>, <a href="https://robbowen.digital" aria-label="Robbs portfolio">https://robbowen.digital</a> och <a href="https://brittanychiang.com" aria-label="Brittany Chiangportfolio">https://brittanychiang.com</a>
 
 Metod
 ---
-Den metod eller teori som användes är <a href="https://www.canva.com/learn/design-elements-principles">https://www.canva.com/learn/design-elements-principles</a>. Detta användsa som en grund för att definera olika design principer.
+Den metod eller teori som användes är <a href="https://www.canva.com/learn/design-elements-principles" aria-label="Canvas design principles page">https://www.canva.com/learn/design-elements-principles</a>. Detta användsa som en grund för att definera olika design principer.
 
 Resultat
 ---

@@ -8,7 +8,7 @@ I denna rapport skall tre webbplatser analyseras om färgschema och font val
 
 Urval
 ---
-De sidor som kommer att analyseras är följande <a href="https://www.php.net">php.net</a>, <a href="https://developer.mozilla.org/en-US/">developer.mozilla.org</a> och <a href="https://www.python.org">python.org</a>
+De sidor som kommer att analyseras är följande <a href="https://www.php.net" aria-label="php site">php.net</a>, <a href="https://developer.mozilla.org/en-US/" aria-label="MDN developer site">developer.mozilla.org</a> och <a href="https://www.python.org" aria-label="Python site">python.org</a>
 Detta genom att först välja något kopplat till kursen/kurspaketen. Så då blev det att kolla in webbplatser om de tekniker som används i kursen/kurspaketen.
 
 Metod
@@ -21,7 +21,7 @@ Här kommer resultat om de olika webbplatserna.
 
 ### PHP.net
 
-<img src="%base_url%/assets/img/PHP.png" class="analysis-image">
+<img src="%base_url%/assets/img/PHP.png" class="analysis-image" alt="PHP front page">
 
 <table class="analysis-table" style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -41,7 +41,7 @@ brödtext - Fira Sans <br>
 Jag tror att de försöker se modern ut och lyckas med det genom sina val.
 ### developer.mozilla.org
 
-<img src="%base_url%/assets/img/MDN.png" class="analysis-image">
+<img src="%base_url%/assets/img/MDN.png" class="analysis-image" alt="MDN front page">
 
 
 <table class="analysis-table" style="border-spacing: 4px; border-collapse: separate">
@@ -64,7 +64,7 @@ brödtext - Inter <br>
 Jag tror att de lyckas med att försöka se åt som dokumentation genom större kontraster.
 ### python.org
 
-<img src="%base_url%/assets/img/PYTHON.png" class="analysis-image">
+<img src="%base_url%/assets/img/PYTHON.png" class="analysis-image" alt="Python front page">
 
 
 <table class="analysis-table" style="border-spacing: 4px; border-collapse: separate">
